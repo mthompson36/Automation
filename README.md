@@ -1,2 +1,2 @@
-# Automationclass
+# Automation
 Exercises for practice with python
